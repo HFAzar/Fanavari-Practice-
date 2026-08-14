@@ -33,7 +33,7 @@ University student  report card. 📄
 Score= float(input("Please enter the score:").strip())
 
 
-if 20 > Score and Score >= 18 :
+if 20 >= Score and Score >= 18 :
     print("A") 
 
 elif 18 > Score and Score >= 16 :
