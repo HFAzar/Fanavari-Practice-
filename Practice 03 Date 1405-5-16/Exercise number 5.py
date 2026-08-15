@@ -44,7 +44,7 @@ if Discount_Code == "Z14":
     print(Final_price)
 
 
-elif Discount_Code != "Z14" :
+else :
     print("Wrong discount code")
     print("You have one chance 1️⃣")
     Discount_Code2 = input("Attention⚠️: Enter the 'DISCOUNT CODE' correctly:").strip().upper()

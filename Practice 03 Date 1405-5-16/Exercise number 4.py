@@ -33,19 +33,22 @@ University student  report card. 📄
 Score= float(input("Please enter the score:").strip())
 
 
-if 20 >= Score and Score >= 18 :
-    print("A") 
+if    Score > 20  :
+    print("⚠️Warning: Enter The Correct Score")
 
-elif 18 > Score and Score >= 16 :
-    print("B")
+elif  Score >= 18 :
+    print("A")
      
-elif 16 > Score and Score >= 14 :
+elif  Score >= 16 :
+    print("B")
+    
+elif  Score >= 14 :
     print("C")
     
-elif 14 > Score and Score >= 10 :
+elif  Score >= 10 :
     print("D")
-    
-elif 10 > Score >= 0 :
+
+elif  Score >=  0 :
     print("F")
 
 else:
@@ -54,6 +57,104 @@ else:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #THE END .... Yours Sincerely .... HFAzar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
