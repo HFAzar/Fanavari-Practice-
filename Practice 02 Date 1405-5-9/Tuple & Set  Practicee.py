@@ -33,7 +33,11 @@ Sets are written with curly brackets.
 
 #Tuple	    Example:
 a=("شنبه","یکشنبه","دوشنبه","سه شنبه","چهارشنبه","پنج شنبه","جمعه")
+
+print(type(a))
+a[2]     #  'دوشنبه'
 a[1]="هفت شنبه"
+
 print(a)
 
 
@@ -41,9 +45,15 @@ print(a)
 
 #set	    Example:
 b={1,2,2,3,4,5,3,6,4,7,7}
+print(type(b))
+
 c=[1,2,2,3,4,5,3,6,4,7,7]
+print(type(c))
 d=set(c)   
 print(b,d)
+
+
+
 
 
 

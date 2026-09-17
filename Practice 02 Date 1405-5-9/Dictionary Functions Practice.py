@@ -4,9 +4,11 @@
 Dictionary:
 Dictionaries are used to store data values in key:value pairs.
 
-A dictionary is a collection which is ordered*, changeable and do not allow duplicates.
+A dictionary is a collection which is ordered*, changeable and do not allow 
+duplicates.
 
-As of Python version 3.7, dictionaries are ordered. In Python 3.6 and earlier, dictionaries are unordered.
+As of Python version 3.7, dictionaries are ordered. In Python 3.6 and earlier,
+dictionaries are unordered.
 
 Dictionaries are written with curly brackets, and have keys and values:
     
@@ -23,5 +25,13 @@ student = {
     "postal_code": 123456789
 }
 print(student)
+
+student["job"]
+student["age"]
+student["city"]
+
+
+
+
 
 #THE END .... Yours Sincerely .... HFAzar.

@@ -59,11 +59,13 @@ print(h)
 #pop()   Example:
 i=[10,11,12,13,14,15,16]
 print(i.pop())
+print(i)
 
 
 #remove()   Example:
 j=[10,11,12,13,14,15,16]
 print(j.remove(13))
+print(j)
     
 
 
@@ -75,6 +77,7 @@ print(k.reverse())
 #sort()   Example:
 l=[3,1,4,2,6,7,13,9]
 print(l.sort())
+print(l)
 
 
 #THE END .... Yours Sincerely .... HFAzar.
