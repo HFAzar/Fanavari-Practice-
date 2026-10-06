@@ -1,0 +1,46 @@
+'''
+     * In The Name Of God *
+''' 
+#              H
+#             /|\
+#            / | \
+#           /--F--\
+#          / \ | / \
+#         *--- A ---*
+#          \ / Z \ /
+#           \  A  /
+#            *-R-*
+#             \ /
+#          ====*=====
+#          | HFAZAR |
+#          ==========
+'''
+================================================
+  Author         : HFAzar
+  Project Title  : Banking Package
+  Class Session  : 08
+  Level          : {level}
+  Date           : 1405-07-03
+  Python Version : 3.13.14
+  GitHub         : https://github.com/HFAzar
+  Status         : {status}
+================================================
+'''
+#%%
+'''
+Exercise number 02:
+
+Description: Banking Package
+   
+''' 
+#%%
+
+
+def request_loan():
+    pass
+
+
+
+
+
+
