@@ -1,0 +1,29 @@
+Folder: C:\Users\Asus\Desktop\مطالعه
+==============================
+Files and sizes (KB):
+  desktop.ini: 1 KB
+  folderhighlight-7a2c987b-0e7f-4899-9a0f-5deeb6aaee0b.ico: 48 KB
+  IMG_20261012_190206_041.jpg: 330 KB
+  Introduction to Algorithms.pdf: 5593 KB
+  Learning   Algorithms.pdf: 11688 KB
+  Python_Architecture_Evolution.pdf: 15011 KB
+  Python_Architecture_Evolution.pptx: 16096 KB
+  Python_Jozve_Sessions_1-10.pdf: 5503 KB
+  The Algorithm Design Manual - 2nd Edition.pdf: 11183 KB
+  The Algorithm Design Manual.pdf: 6170 KB
+  آموزش پایتون از مبتدی تا پیشرفته.pdf: 2521 KB
+  سیر_تکامل_کد_جلسات_۲_تا_10.pdf: 1602 KB
+  چهار_روش_کدنویسی_در_پایتون.pdf: 670 KB
+------------------------------
+Count: 13
+Total: 76416 KB
+Average: 5878.15 KB
+Largest: ('Python_Architecture_Evolution.pptx', 16096)
+Smallest: ('desktop.ini', 1)
+------------------------------
+Extensions:
+  .ini: 1
+  .ico: 1
+  .jpg: 1
+  .pdf: 9
+  .pptx: 1
